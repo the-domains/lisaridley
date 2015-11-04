@@ -1,0 +1,23 @@
+name: LisaRidley
+favicon: null
+layout_spectrum: 0.31446765968576074
+typography_spectrum: 0.44421355426311493
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7727082965429872
+  lightness: 0.1772748848889023
+  saturation: 0.10305365663953125
+  rhythmicContrast: 0.38928801170550287
+purpose: []
